@@ -1,1 +1,19 @@
 
+{
+  "version": 1,
+  "updated_at": "2026-03-29T14:30:00Z",
+  "items": [
+    {
+      "id": "ganesh-aarti-1",
+      "title": "Ganesh Aarti",
+      "titleHindi": "जय गणेश देवा",
+      "category": "aarti",
+      "deity": "ganesh",
+      "lyrics": "....",
+      "audioUrl": "https://raw.githubusercontent.com/devamolpatil/vision/main/puja-deep/data/audio/test.mp3",
+      "durationSeconds": 272,
+      "language": "hindi",
+      "imageUrl": ""
+    }
+  ]
+}
