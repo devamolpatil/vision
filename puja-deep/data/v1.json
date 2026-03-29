@@ -9,7 +9,11 @@
       "titleHindi": "जय गणेश देवा",
       "category": "aarti",
       "deity": "ganesh",
-      "lyrics": "....",
+      "lyrics": [
+        "जय गणेश जय गणेश जय गणेश देवा",
+        "माता जाकी पार्वती पिता महादेवा",
+        "एकदंत दयावंत चार भुजा धारी"
+      ],
       "audioUrl": "https://raw.githubusercontent.com/devamolpatil/vision/main/puja-deep/data/audio/Jai Ganesh Deva.mp3",
       "durationSeconds": 272,
       "language": "hindi",
