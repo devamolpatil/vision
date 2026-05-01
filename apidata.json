@@ -1,7 +1,7 @@
 
 {
   "showBannerAds": true,
-  "showInterstitialAds": false,
+  "showInterstitialAds": true,
   "disableAds": false,
-  "showAfterSwipes":10
+  "showAfterSwipes":1
 }
